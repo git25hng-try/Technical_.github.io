@@ -4,14 +4,13 @@
 
 ***The problem***
 
-As a smart screen user, who spends long hours using smart devices affects my vision, especially over a
+As a smart screen user, who spends long hours using smart devices, blue light rays affects my vision, especially over a
 long time. I could have blurry vision, eaisly lose concentration, increased eye strain and have sleep distortion.
 
-I am not comfortable wearing eyeglasses always or most of the time to deal with blue rays at these times, also for my
-children who are 10 years and below who use smart devices alot. I don't want their
-reading habits to be distorted by long exposure to smart screen.
+In addition, I am unable to accurately select font sizes or color temperature that protects my vision at different moments and reduces eye strain.
 
-I am unable to manually select what screen display protects my vision by accurately displaying text fonts, color temperature and screen brightness at different moments.
+Consequently, I am not comfortable wearing protective ray eyeglasses always or most of the time to deal with blue rays at these times, also for my 10-year old children and below who use smart devices a lot. I don't want their
+reading habits to be distorted from long exposure to smart scree
 
 ***How does Smart vision care help?***
 
@@ -28,5 +27,5 @@ Perfect for my children!
 
 As a smart screen user, you don't need to bother wearing eyeglasses each time you want to use your smart screen, Smart vision care protects your vision 💯.
 
-Little children, who are 10years and below benefit exceedingly because 'book mode' can be selected. Therefore,
+Highly recommended for little children, who are 10years old and below because 'book mode' can be selected. Therefore,
 using smart devices over a long time does not make the pages of a book unfriendly to them.
