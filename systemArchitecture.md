@@ -28,6 +28,7 @@ COULD HAVE
 * A time of the day display color - Screen displays according to users'time of the day.
 
 |***Modules***|***Description***|
+|-------------|-----------------|
 |Eye test module|Conducts user victual eye test and cambridge color test with accuracy|
 |Eye sensor module|Monitors users' vision and eye coordination to adjust screen display|
 |Book mode selection module|Ensures users are able to select a no blue ray mode|
