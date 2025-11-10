@@ -11,27 +11,27 @@ MUST HAVE
 * Must have a spectrophotometer eye sensor - This monitors and controls automatically users' vision to adjust screen display to sensitivity to blue rays.
 * Must have a book mode - A no blue ray mode.
 * Must have an accurate victual eye test detector - This detects the accurate font for users across all applications.
-* Must have an accurate Cambridge color eye test detector
+* Must have an accurate Cambridge color eye test detector - Checks for accurate color display for users' vision and adjusts screen brightness.
 * Must have multiple users' average vision calculator for screen display
   from eye test results of intended users.
 
 SHOULD HAVE 
-* A GPS tracker
+* A GPS tracker - Activate location tracking permission to adjust screen brightness as such.
 * A self-selected user font option
 * A self-selected user brightness display
 * A user option range for book mode
 * A Device Detector
-* Medical user eye test input
+* Medical user eye test input - Users can input medical eye test result for screen display to protect their vision.
 
 COULD HAVE
-* A location color temperature
-* A time of the day display color.
+* A location color temperature - Requests users' permission to set screen display according to location.
+* A time of the day display color - Screen displays according to users'time of the day.
 
-***Modules***
-- Eye test module
-- Eye sensor module
-- Book mode selection module
-- Screen display resolution modules
+|***Modules***|***Description***|
+|Eye test module|Conducts user victual eye test and cambridge color test with accuracy|
+|Eye sensor module|Monitors users' vision and eye coordination to adjust screen display|
+|Book mode selection module|Ensures users are able to select a no blue ray mode|
+|Screen display resolution modules|Ensures that screen display is according to users' eye test result to protect their vision|
 
 ***Technical Communication***
 
