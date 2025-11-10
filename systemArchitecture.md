@@ -46,4 +46,4 @@ COULD HAVE
 |Request screen display resolution|Server|Get EYE_TEST_RESULTS|App EYE_TEST Database store|User_ID and screen display|
 
 ***Technical Feasibility***
-Smart vision care is technically feasible, but difficulties of integrating EYE_TEST may exist.
+Smart vision care is technically feasible, but difficulties of integrating EYE_TEST parameters may exist.
