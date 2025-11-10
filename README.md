@@ -9,7 +9,7 @@ long time. I could have blurry vision, eaisly lose concentration, increased eye 
 
 In addition, I am unable to accurately select font sizes or color temperature that protects my vision at different moments and reduces eye strain.
 
-More so, I am not comfortable wearing protective ray eyeglasses always or most of the time to deal with blue rays at these times, also for my 10-year old children and below who use smart devices a lot. I don't want their
+More so, I am not comfortable wearing protective ray eyeglasses always or most of the time to deal with blue rays at these times, and also for my 10-year old children and below who use smart devices a lot. I don't want their
 reading habits to be distorted from long exposure to smart scree
 
 ***How does Smart vision care help?***
