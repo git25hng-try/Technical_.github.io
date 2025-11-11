@@ -48,3 +48,9 @@ COULD HAVE
 
 ***Technical Feasibility***
 Smart vision care is technically feasible, but difficulties of integrating EYE_TEST parameters may exist.
+|***Module***|***Technical difficulty***|
+|------------|---------------------------|
+|Eye test|Medium|
+|Eye sensor|High|
+|Book mode selection|Easy|
+|Screen display resolution|High|
