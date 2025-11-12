@@ -47,6 +47,10 @@ COULD HAVE
 |Select book mode|Server|Get/BOOK COLORS - without blue rays||
 |Request screen display resolution|Server|Get EYE_TEST_RESULTS|Query|App EYE_TEST Database store|User_ID and screen display resolution|
 
+|***Error handling***|***Acceptance criteria***|
+|-----------------------|------------------------------------|
+|1)If username <8, frontend displays in-line validation error message - must be 8 characters2)If a required character is missing, the typed drop down list criteria of the missing character remains red.3)For multiple users, if new username has been previously stored on the device, in-line validation text displays under the username bar 'sorry, this username already exists'|1)Username selection for device owner is a one time action.2) Username must have 8 characters, alphanumeric+special character.3) Frontend displays in-line validation criteria drop down list below the username bar that is typed in red and turns green when user selects the right username character criteria. The drop down list appears when the user puts the cursor on the username bar.4) No 2 usernames can be used on the same device.|1)If stored user name >4, in-line validation below the username bar displays 'oops, you have reached the maximum number of users|1) Each username on the application must be unique and matched with the device_id 2) Application would not allow >3 users sharing the screen.3) Application would allow new users to change username, if user changes 3) No limit to changing new users' username.4)When new user changes, application allows for <select user> drop down options, in case of returning 'new users|
+
 ***Technical Feasibility***
 Smart vision care is technically feasible, but difficulties of integrating EYE_TEST parameters may exist.
 |***Module***|***Technical difficulty***|
