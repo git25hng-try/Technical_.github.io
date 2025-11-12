@@ -27,13 +27,12 @@ COULD HAVE
 * A location color temperature - Requests users' permission to set screen display according to location.
 * A time of the day display color - Screen displays according to users'time of the day.
 
-|***Modules***|***Description***|
+|***Modules***|***Description***|***User story***|
 |-------------|-----------------|
-|Eye test module|Conducts user victual eye test and cambridge color test with accuracy|
-|Eye sensor module|Monitors users' vision and eye coordination to adjust screen display|
-|Book mode selection module|Ensures users are able to select a no blue ray mode|
-|Screen display resolution modules|Ensures that screen display is according to users' eye test result to protect their vision|
-
+|Eye test module|Conducts user victual eye test and cambridge color test with accuracy|As a user, I want an application that can accurately test the font size and screen display colour that is compatible with my vision. I would not need to manually select, because it can be inaccurate.|
+|Eye sensor module|Monitors users' vision and eye coordination to adjust screen display| As a user, I would prefer an application that can monitor my eye coordination and automatically set the blue ray illuminance while using the smart screen, to observe dizziness or fatigue and adjust screen display to reflect that or give me a prompt on my eye coordination and ask for permission to adjust screen display or shut down the screen.|
+|Book mode selection module|Ensures users are able to select a no blue ray mode|As a user, I want to be able to select the book mode, so that my screen reflects no rays, but that similar to just reading a hard copy book or pictures on the screen. I want a screen display mode that would not make me averse to reading hard copy books|
+|Screen display resolution modules|Ensures that screen display is according to users' eye test result to protect their vision|As a user, I want my screen resolution display to protect my vision completely, regardless of the length of time I spend on the screen. I would not eventually have blurry vision, eye strain or sleep disturbances|
 ***Technical Communication***
 
 |Frontend|Channel|Backend|Channel|Database request|Database store|
