@@ -27,23 +27,25 @@ COULD HAVE
 * A location color temperature - Requests users' permission to set screen display according to location.
 * A time of the day display color - Screen displays according to users'time of the day.
 
+***Modules and User stories***
 |***Modules***|***Description***|***User story***|
-|-------------|-----------------|
+|-------------|-----------------|----------------|
 |Eye test module|Conducts user victual eye test and cambridge color test with accuracy|As a user, I want an application that can accurately test the font size and screen display colour that is compatible with my vision. I would not need to manually select, because it can be inaccurate.|
-|Eye sensor module|Monitors users' vision and eye coordination to adjust screen display| As a user, I would prefer an application that can monitor my eye coordination and automatically set the blue ray illuminance while using the smart screen, to observe dizziness or fatigue and adjust screen display to reflect that or give me a prompt on my eye coordination and ask for permission to adjust screen display or shut down the screen.|
+|Eye sensor module|Monitors users' vision and eye coordination to adjust screen display| As a user, I would prefer an application that can monitor my eye coordination and automatically set the blue ray illuminance while using the smart screen. The sensor observes dizziness or fatigue and adjust screen display to reflect that or give me a prompt on my eye coordination and ask for permission to adjust screen display or shut down the screen.|
 |Book mode selection module|Ensures users are able to select a no blue ray mode|As a user, I want to be able to select the book mode, so that my screen reflects no rays, but that similar to just reading a hard copy book or pictures on the screen. I want a screen display mode that would not make me averse to reading hard copy books|
 |Screen display resolution modules|Ensures that screen display is according to users' eye test result to protect their vision|As a user, I want my screen resolution display to protect my vision completely, regardless of the length of time I spend on the screen. I would not eventually have blurry vision, eye strain or sleep disturbances|
+
 ***Technical Communication***
 
 |Frontend|Channel|Backend|Channel|Database request|Database store|
 |-------|--------|-------|-------|--------|--------|
-|Request for username|Server|Get/CHARACTERS|Query|Device Keyboard and language settings|
-|Request for user_id|API|Get/DEVICE_ID|Query|Developers 'About Device'|Unique user_id|
+|Request for username|Server|Get/CHARACTERS|Query|Device Keyboard and language settings|Stores username|
+|Generate user_id|API|Get/DEVICE_ID|Query|Developers 'About Device'|Unique user_id|
 |Request victual eye test|API|Get/FONT SIZES-different alphanumeric, alphabets, and numbers for users to identify|Query|Device keyboard and language settings|Users' accurate font size|
 |Request Cambridge color eye test|API|Get/{COLORS}/{COLOR NAMES}|Query|Color Palettes and Schemes, Color Pickers and Eyedroppers|Users' accurate screen display resolution|
 |Request Spectrophotometer eye test|API|Get/EYE SENSOR-to monitor rays and eye coordination|Query|User permission.EYE_TRACKING|EYE_RAY sensitivity|
 |Select book mode|Server|Get/BOOK COLORS - without blue rays||
-|Request screen display resolution|Server|Get EYE_TEST_RESULTS|App EYE_TEST Database store|User_ID and screen display|
+|Request screen display resolution|Server|Get EYE_TEST_RESULTS|Query|App EYE_TEST Database store|User_ID and screen display|
 
 ***Technical Feasibility***
 Smart vision care is technically feasible, but difficulties of integrating EYE_TEST parameters may exist.
