@@ -16,7 +16,8 @@ reading habits to be distorted from long exposure to smart screen.
 
 Smart vision care is an inbuilt software application that conducts eye tests and uses eye sensors to monitor users' eye
 coordination and adjusts screen displays accordingly, from the eye test results and monitoring users' eye coordination.
-Screen display is accurate, therefore, user does not need any manual settings that may not accurately protect their vision. 
+
+Screen display resolution is accurate, therefore, user does not need any manual settings that may not accurately protect their vision. 
 
 Inspite of how much time I spend using the smart screen, I am not afraid of vision problems , even
 without wearing blue ray protective eyeglasses.
